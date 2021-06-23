@@ -30,6 +30,7 @@ class SifiCal1 extends basicCal{
 
 // this is another method of calling inheritance and in more of cases we do this
 // in place of inheritance. this is called composition.
+//there are two kinds of compositions :1. aggregation 2.association
 class SifiCal2{    
 	
 	private basicCal basic=new basicCal();
