@@ -39,7 +39,8 @@ public class Abstract {
 		//triangle tr=new triangle(5,6);
 		
 		tri tr=new tri(5,6);
-System.out.print(tr.are());	
+
+System.out.println(tr.are());
 
 //ABSTRACTION OF METHOD
 
